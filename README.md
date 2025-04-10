@@ -4,11 +4,11 @@
 Implementation of Pseudorandom Number Generation Using Standard library
 
 # ALGORITHM:
-Start the program and import the required libraries.
-Seed the random number generator using the current time(i.e) rand(time(0));
-Get the number of randon number to generate.
-Pass the value for number of iterations and print the numbers.
-End the program.
+## step 1:Start the program and import the required libraries.
+## step 2:Seed the random number generator using the current time(i.e) rand(time(0));
+## step 3:Get the number of randon number to generate.
+## step 4:Pass the value for number of iterations and print the numbers.
+## step 5:End the program.
 
 # PROGRAM:
 ```
